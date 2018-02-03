@@ -5,7 +5,7 @@
   <groupId>ponmurugan</groupId>
   <artifactId>ponmurugan</artifactId>
   <version>1</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
   <name>ponmurugan</name>
   <url>http://maven.apache.org</url>
